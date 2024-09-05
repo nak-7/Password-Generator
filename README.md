@@ -92,12 +92,3 @@ try {
 
 
 
-
-
-
-## Acknowledgments
-
-Big Thanks <3 to :
-
-* [Codecademy](https://www.codecademy.com)
-* [Frontend Mentor](https://www.frontendmentor.io/) 
